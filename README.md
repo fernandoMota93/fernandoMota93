@@ -6,9 +6,10 @@
   <a href="https://www.linkedin.com/in/luiz-fernando-mota-carvalho-82a34b8a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <h1>Hello! 👋</h1>
 </div>
 
-## Hi there 👋
+## Tech stuff 
 
 Full Stack developer from Brazil 🇧🇷
 
