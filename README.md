@@ -7,17 +7,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <h1>Hello! 👋</h1>
-  <p style="text-align: left; text-decoration: italic; font-size: 9px;">
+  <p style="text-align:">
     Com uma sólida trajetória de 10 anos no Exército Brasileiro, desenvolvi habilidades cruciais em <b>gestão de equipes</b> e liderança. Minha experiência inclui o gerenciamento de equipes e a condução de processos de licitações para compras governamentais. Além disso, trabalhei em projetos de <b>sistemas web</b>, utilizando ferramentas como Node.js e Firebase, e desenvolvi aplicações para Android.
   </p>
-  <p style="text-align: left; text-decoration: italic; font-size: 9px;">
+  <p style="text-align: left; ">
     Minha comunicação eficaz e experiência em gerenciamento de projetos são ativos que pretendo trazer para minha próxima oportunidade profissional. Atualmente, estou focado no aprimoramento de hard skills e na exploração de novas stacks de desenvolvimento, com o objetivo de contribuir significativamente para o sucesso da equipe e da organização.
   </p>
 
-  <p style="text-align: left;">
+ <p style="font-size: 9px; font-style: italic; text-align: left;">
     With a solid 10-year career in the Brazilian Army, I have developed crucial skills in team management and leadership. My experience includes managing teams and conducting bidding processes for government procurement. In addition, I have worked on web systems projects, using tools such as Node.js and Firebase, and developed applications for Android.
   </p>
-  <p style="text-align: left;">
+  <p style="font-size: 9px; font-style: italic; text-align: left;">
     My effective communication and project management experience are assets that I intend to bring to my next professional opportunity. Currently, I am focused on improving my hard skills and exploring new development stacks, with the goal of contributing significantly to the success of the team and the organization.
   </p>
 
