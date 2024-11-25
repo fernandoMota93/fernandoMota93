@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <h1>Hello! 👋</h1>
-  <p style="text-align: left;">
+  <p style="text-align: left; text-decoration: italic; font-size: 9px;">
     Com uma sólida trajetória de 10 anos no Exército Brasileiro, desenvolvi habilidades cruciais em <b>gestão de equipes</b> e liderança. Minha experiência inclui o gerenciamento de equipes e a condução de processos de licitações para compras governamentais. Além disso, trabalhei em projetos de <b>sistemas web</b>, utilizando ferramentas como Node.js e Firebase, e desenvolvi aplicações para Android.
   </p>
-  <p style="text-align: left;">
+  <p style="text-align: left; text-decoration: italic; font-size: 9px;">
     Minha comunicação eficaz e experiência em gerenciamento de projetos são ativos que pretendo trazer para minha próxima oportunidade profissional. Atualmente, estou focado no aprimoramento de hard skills e na exploração de novas stacks de desenvolvimento, com o objetivo de contribuir significativamente para o sucesso da equipe e da organização.
   </p>
 
