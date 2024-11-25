@@ -15,10 +15,13 @@
   </p>
 
  <p style="font-size: 9px; font-style: italic; text-align: left;">
-    With a solid 10-year career in the Brazilian Army, I have developed crucial skills in team management and leadership. My experience includes managing teams and conducting bidding processes for government procurement. In addition, I have worked on web systems projects, using tools such as Node.js and Firebase, and developed applications for Android.
+    <em>With a solid 10-year career in the Brazilian Army, I have developed crucial skills in team management and leadership. My experience includes managing teams and conducting bidding processes for government procurement. In addition, I have worked on web systems projects, using tools such as Node.js and Firebase, and developed applications for Android.
+    </em>
   </p>
   <p style="font-size: 9px; font-style: italic; text-align: left;">
+    <em>
     My effective communication and project management experience are assets that I intend to bring to my next professional opportunity. Currently, I am focused on improving my hard skills and exploring new development stacks, with the goal of contributing significantly to the success of the team and the organization.
+    </em>
   </p>
 
 </div>
