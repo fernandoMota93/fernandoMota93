@@ -39,3 +39,5 @@ Full Stack developer from Brazil 🇧🇷
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
 </div>
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoMota93)](https://github.com/fernandoMota93/github-readme-stats)
