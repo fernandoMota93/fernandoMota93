@@ -16,7 +16,7 @@ Full Stack developer from Brazil 🇧🇷
 - 🌱 I’m currently learning VUE 3, Laravel, Angular
 - 👯 I’m looking to collaborate on College Researches
 
-  <hr style="border:2px solid gray">
+<hr style="border:2px solid gray">
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
